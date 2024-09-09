@@ -1,0 +1,63 @@
+Cientista e engenheiro de dados estão em alta e têm salário que pode passar de R$ 20 mil; veja como entrar (Matéria de 24/04/2024)
+
+Com desafio de encontrar mão de obra qualificada, profissões seguem em alta em 2024 porque empresas valorizam
+cada vez mais o uso de dados na tomada de decisões. O g1 conversou com pessoas envolvidas nessas áreas para entender
+como está o mercado de trabalho.
+
+No universo da tecnologia da informação (TI), as áreas de cientista e engenheiro de dados são as atuais queridinhas
+do momento. Elas oferecem salários realmente atrativos, mas encontram barreiras para procurar profissionais.
+
+Eis a explicação: elas são relativamente novas e fazem parte do boom da IA generativa. As empresas estão atrás de quem
+realmente domina o assunto, mas são poucos aqueles que estão preparados.
+
+Quem já conseguiu se qualificar, passa a ficar mais exigente em relação às vagas. Esses profissionais muitas vezes são
+atraídos por companhias estrangeiras, que pagam em euro ou dólar, permitindo até que a pessoa trabalhe do Brasil.
+Esse tipo de oferta mais atraente faz com que o mercado interno tenha dificuldades para reter os talentos.
+
+"Quando vira sênior, você não quer mais trabalhar para companhias brasileiras porque dá para ganhar muito mais recebendo
+em dólar, e trabalhando do Brasil. Eu já recebi uma proposta para receber US$ 7 mil por mês de uma empresa gringa",
+conta a engenheira de dados Gabrielle Azevedo, de 27 anos.
+
+Outra profissão relacionada é a de analista de dados. Ela não tem tanta valorização como as outras duas nem remuneração
+tão alta, mas a possibilidade de crescimento profissional existe (entenda abaixo).
+
+"Dados são gerados e consumidos o tempo todo e qualquer área pode se beneficiar deles. Isso explica o porquê de estes
+setores estarem em alta", diz Bruna Zamith, cientista de dados da Amazon Brasil.
+
+"Hoje em dia, não tem como você fazer inteligência artificial sem ter dados. O engenheiro vai dar suporte,
+mas o cientista vai ter a habilidade de criar os modelos generativos, por exemplo", diz Suelane Garcia Fontes,
+coordenadora técnica do centro de ciência de dados do Insper.
+
+O g1 conversou com três profissionais que têm a mesma idade (27 anos), mas que estão em trajetórias e momentos de carreira
+diferentes. Eles falam sobre suas experiências, desafios e como está o mercado de engenharia, ciência e análise de dados.
+
+O g1 também ouviu professores e uma cientista de dados da Amazon Brasil, que falam mais sobre o mercado e dão dicas para
+quem tem interesse em investir nessas carreiras.
+
+O que fazem esses profissionais?
+Um engenheiro de dados é responsável por projetar, construir e gerenciar a infraestrutura de dados de uma organização.
+Esse profissional garante que os dados sejam disponíveis, confiáveis e prontos para serem utilizados pelos demais times da empresa.
+
+O cientista de dados faz a análise dos dados obtidos pelo engenheiro e descobre coisas a partir deles. Com essas informações em mãos,
+ele vai trazer destaques e soluções. A estatística está muito presente no dia a dia dele. Além disso, vale observar que o cientista
+trabalha mais próximo de inteligência artificial generativa, um tipo de IA capaz de criar novos conteúdos a partir de ferramentas como o ChatGPT.
+
+Já o analista vai usar os dados para preparar gráficos e gerar relatórios que ilustrem uma situação. Em outras palavras, ele traduz e transforma
+os dados em informações que apoiam a tomada de decisões de negócios pelo cientista, por exemplo.
+
+E como está o salário?
+Dados obtidos pelo g1 com a plataforma de empregos Catho mostram que a média salarial em 2024 do cientista de dados está em R$ 7.801,
+enquanto a do engenheiro fica em R$ 6.927. Quando olhamos para o analista, a média fica em R$ 3.094, segundo o Vagas.com.
+
+Tanto o levantamento da Catho como o da Vagas.com foram feitos nos primeiros meses deste ano.
+
+Fabio Maeda, diretor da unidade de candidatos da Catho, diz que houve aumento na média salarial de profissionais na área
+de dados entre 2023 e 2024. "Os cientistas e os engenheiros tiveram incremento salarial de 3% e 7%, respectivamente.
+Isso indica que as empresas estão investindo mais em estruturação, análise e engenharia de dados".
+
+Para a consultoria Robert Half, os números podem ser ainda maiores no caso do cientista de dados. O estudo divulgado no
+fim de 2023 mostrou que um iniciante, que ainda está se desenvolvendo, pode receber em média R$ 14.400. Um profissional intermediário
+pode tirar R$ 18.700 ao mês, enquanto os líderes têm uma remuneração de R$ 24.100.
+
+Caso tenha interesse na matéria completa, utilize o link abaixo:
+https://g1.globo.com/tecnologia/noticia/2024/04/07/cientista-e-engenheiro-de-dados-estao-em-alta-e-tem-salario-que-pode-passar-de-r-20-mil-veja-como-entrar.ghtml
