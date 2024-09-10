@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <!-- Define a codificação de caracteres da página como UTF-8, que abrange quase todos os caracteres e símbolos -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Ajusta a escala da página para se adaptar à largura da tela do dispositivo -->
+    <title>Meu Portfólio</title>
+    <style>
+        /* CSS Geral */
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            /* Define o estilo básico do corpo da página, incluindo fonte, espaçamento e cor de fundo */
+        }
+
+        nav ul {
+            list-style: none;
+            background-color: #333;
+            text-align: center;
+            padding: 0;
+            margin: 0;
+            /* Estiliza o menu de navegação, removendo os marcadores das listas e ajustando o alinhamento */
+        }
+
+        nav ul li {
+            display: inline;
+            /* Coloca os itens da lista em linha, para que apareçam lado a lado no menu */
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: white;
+            padding: 15px;
+            display: inline-block;
+            /* Estiliza os links do menu, removendo o sublinhado e ajustando a cor e o espaçamento */
+        }
+
+        nav ul li a:hover {
+            background-color: #555;
+            /* Muda a cor de fundo do link quando o mouse passa sobre ele */
+        }
+
+        main {
+            padding: 20px;
+            text-align: center;
+            /* Estiliza o conteúdo principal das páginas, centralizando o texto e adicionando espaçamento interno */
+        }
+
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            /* Estiliza o rodapé, fixando-o na parte inferior da tela com um fundo escuro e texto branco */
+        }
+
+        form {
+            margin-top: 20px;
+            /* Adiciona espaçamento acima do formulário de contato */
+        }
+
+        form label, form input, form textarea {
+            display: block;
+            margin: 10px 0;
+            /* Exibe os elementos do formulário em blocos separados com espaçamento vertical */
+        }
+
+        form input, form textarea {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            /* Estiliza os campos do formulário com bordas arredondadas e preenchimento interno */
+        }
+
+        form input[type="submit"] {
+            background-color: #333;
+            color: white;
+            border: none;
+            cursor: pointer;
+            /* Estiliza o botão de envio do formulário, destacando-o com cor de fundo escura e texto branco */
+        }
+
+        form input[type="submit"]:hover {
+            background-color: #555;
+            /* Muda a cor de fundo do botão de envio quando o mouse passa sobre ele */
+        }
+    </style>
+</head>
+<body>
+    <!-- Menu de Navegação -->
+    <nav>
+        <ul>
+            <!-- Cria uma lista de links para navegar pelas diferentes seções do portfólio -->
+            <li><a href="#home">Início</a></li>
+            <li><a href="#sobre">Sobre Evandro</a></li>
+            <li><a href="#formacao">Formação</a></li>
+            <li><a href="#portfolio">Portfólio</a></li>
+            <li><a href="#contato">Contato</a></li>
+        </ul>
+    </nav>
+
+    <!-- Conteúdo das Páginas -->
+    <main id="home">
+        <!-- Seção inicial de boas-vindas -->
+        <h1>Bem-vindo ao meu portfólio</h1>
+        <p>Este é o meu espaço na web, onde você pode conhecer mais sobre mim, a formação que escolhi e estou me especializando. Fique à vontade para explorar!</p>
+    </main>
+
+    <main id="sobre" style="display:none;">
+        <!-- Seção "Sobre" com informações pessoais -->
+        <h1>Conheça um pouco mais sobre mim</h1>
+        <p> Olá! Meu nome é Evandro Pereira Munhoz, tenho 41 anos, sou casado e pai de uma menina de 10 anos. Trabalho há 24 anos em uma empresa do setor alimentício, onde comecei minha carreira aos 17 anos, em um período de grande crescimento para a empresa. Ao longo do tempo, tive a oportunidade de conhecer profundamente todos os setores, tanto internos quanto externos, mas foi na área comercial que encontrei meu maior interesse, especialmente no acesso aos dados de vendas e faturamento.
+
+            Com o passar dos anos, percebi a necessidade de otimizar processos e comecei a usar o Excel como ferramenta de suporte. Esse primeiro contato com análise de dados despertou em mim uma paixão por transformar informações brutas em insights valiosos, o que não apenas ajudou na tomada de decisões mais assertivas, mas também me permitiu contribuir diretamente com meus colegas de trabalho.
+            
+            Atualmente, estou aprofundando meus estudos em Python e outras disciplinas no curso de Tecnologia em Ciências de Dados, com o objetivo de aprimorar minhas habilidades e enfrentar desafios ainda maiores. Acredito que a combinação da minha paixão por dados e minha curiosidade natural me permitirá alcançar resultados significativos.
+            
+            Nos meus momentos de lazer, gosto de passar tempo com minha família e amigos, praticando esportes e atividades ao ar livre para recarregar as energias.
+            
+             </p>
+    </main>
+
+    <main id="formacao" style="display:none;">
+        <!-- Seção com detalhes da formação acadêmica -->
+        <h1>Formação Acadêmica</h1>
+        <h2>Centro Universitário Internacional Uninter</h2>
+        <p>Tecnólogo em Ciências de Dados, ano de conclusão 2026</p>
+        
+        <h2>Idiomas</h2>
+        <p>Português (Nativo)</p>
+        
+    </main>
+
+    <main id="portfolio" style="display:none;">
+        <!-- Seção do portfólio com links para projetos -->
+        <h1>Portfólio</h1>
+        <p>Até o momento, os projetos que desenvolvi estão diretamente relacionados às disciplinas do curso, com ênfase na linguagem Python. Estes projetos foram criados para aplicar e consolidar os conhecimentos adquiridos ao longo do curso de Tecnologia em Ciências de Dados. Para reforçar minha escolha, abaixo links de resumo curso e também uma matéria parcial, com link para o site, sobre o mercado de trabalho para profissionis da área de dados:</p>
+
+        
+            <li><a href="tecnologia_ciencia_dados.txt">Especialização</a> - Curso Tecnologia em Ciências de Dados - Uninter.</li>
+            <li><a href="Mercado_de_trabalho.txt">Mercado de trabalho</a> - Matéria sobre profissionais de dados.</li>
+        
+    </main>
+
+    <main id="contato" style="display:none;">
+        <!-- Seção de contato com formulário para preenchimento -->
+        <h1>Contato</h1>
+        <p>Para maiores informações ou contato, preencha o formulário abaixo:</p>
+        
+        <form action="https://example.com/form-handler" method="post">
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name" required>
+            <!-- Campo de texto para nome -->
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+            <!-- Campo de texto para email -->
+            
+            <label for="message">Mensagem:</label>
+            <textarea id="message" name="message" required></textarea>
+            <!-- Área de texto para mensagem -->
+            
+            <input type="submit" value="Enviar">
+            <!-- Botão de envio do formulário -->
+        </form>
+
+    </main>
+
+    <!-- Rodapé -->
+    <footer>
+        <p>© 2024 Evandro Pereira Munhoz. Todos os direitos reservados.</p>
+        <!-- Texto de direitos autorais no rodapé -->
+    </footer>
+
+    <!-- JavaScript -->
+    <script>
+        // Função para alternar entre as páginas
+        const links = document.querySelectorAll('nav ul li a');
+        const sections = document.querySelectorAll('main');
+
+        links.forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const target = document.querySelector(link.getAttribute('href'));
+
+                sections.forEach(section => {
+                    section.style.display = 'none';
+                    // Esconde todas as seções antes de exibir a selecionada
+                });
+
+                target.style.display = 'block';
+                // Exibe a seção correspondente ao link clicado
+            });
+        });
+
+        // Mostrar a página inicial por padrão
+        document.querySelector('#home').style.display = 'block';
+    </script>
+</body>
+</html>
